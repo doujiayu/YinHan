@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # yinhan
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# YinHan
+银汉传媒 - 微信公众号 - vue
+>>>>>>> 5e91863e8a0687a53bfd29a738bdd4f63e948f62
